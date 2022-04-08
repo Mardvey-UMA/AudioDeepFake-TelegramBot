@@ -1,0 +1,12 @@
+platform: python 3.8.13
+pip list:
+numpy==1.21.5
+tensorflow==2.8.0
+librosa
+pyTelegramBotAPI
+opencv-python
+pydub
+Также необходимо установить ffmpeg
+для Ubuntu:
+sudo apt install ffmpeg
+

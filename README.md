@@ -120,6 +120,8 @@ def clean_temp(path):
 - Папка **'model'** папка для хранения весов нейронной сети
 ## Деплой бота
 Бот находится на виртуальном сервере под управлением Ubuntu 18.4
+## Ссылка на бота
+t.me/audio_dfbot
 ## Контакты
 - VK : [Матвей Раизнов](https://vk.com/maveyuma)
 - [Telegram](https://t.me/barulitka)

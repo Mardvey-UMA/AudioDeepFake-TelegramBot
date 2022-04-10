@@ -121,7 +121,7 @@ def clean_temp(path):
 ## Деплой бота
 Бот находится на виртуальном сервере под управлением Ubuntu 18.4
 ## Ссылка на бота
-[Audio DeepFake Detector Bot](t.me/audio_dfbot)
+[Audio DeepFake Detector Bot](https://t.me/audio_dfbot)
 ## Контакты
 - VK : [Матвей Раизнов](https://vk.com/maveyuma)
 - [Telegram](https://t.me/barulitka)
